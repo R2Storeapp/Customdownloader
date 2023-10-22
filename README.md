@@ -1,10 +1,10 @@
 **[ FREE ] Customdownloader Extension** 
 
-**Released on :** 01 October 2023
+**🌎 Released on :** 11 October 2023
 
-**Updated on :** 01 October 2023
+**🌎 Updated on :** 11 October 2023
 
-**Latest Version :** 1.0
+**⚙️ Latest Version :** 1.0
 
 ### All Blocks
 
